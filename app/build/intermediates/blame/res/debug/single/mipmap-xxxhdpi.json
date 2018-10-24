@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\sana\\AndroidStudioProjects\\MyMapApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\sana\\AndroidStudioProjects\\MyMapApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyMapApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\MyMapApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

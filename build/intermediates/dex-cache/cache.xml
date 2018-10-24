@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ed56360e7bd78a888ddc76fce07449e4e9b43e82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_1271da3ebd7a5f55a8d48c37644df8a1db32467c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_c07ab9522912084be6c72ba879fc38d947a019a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_79977a6ce122fee82d02965dce081185f38d8336\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_2b3d7c93680e55055b92bb8a6a15e61b8c1ed053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e137cbbb373ab1ac5760e3d99bb9c0a7bf17d86b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_6c2fcae50854c6e6e965702fdcf4c14b5fe86e9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_91a2e399572846eaf5dfc4d5497f417a3aba016c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_e5097268c0eb75c39606d0575068de50a5ef2d1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_bc59e72b69c252d423d640ecd62254f4f30709bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_53aa65f6477e55163487c33f6617be6b212420ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_d0c537ccd6c2a3db9ffc644ae0fea7c6ce8f7d7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_eff00c926ad52170082456bc1f097237d29c4c04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_58c09db5af0ab034025a7fd76c902e9a84bd1961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ea0ecfb023e4e93a0517498a2018aac6ac1ec4ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_ca9848a3444134fc26e35147fed3b0981c6ab3a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_cf1ff713aec03ab173bebca71bb24e24bb6902fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4124d468a0f50375986c92ea7d8034033c1e4ce">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ab4fad2afee2b0fdc25b5e99ba1459a7564946c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_0431bd7d7704c2eb17aede290961f305549649e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_f2b1cc851108faf195122dbdbc303efb2de9cf87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_b816f99d8d9a2e95bf9588afa98a049879d75e4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_2746ab8ceb6b83d12cb9c72d9ac86dfd8d0f8467\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_79fca17836bfcf7a9a4d7c49e73432cfe621ffad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_661ac891dd2f55ba0c284ef1a7062de4ade38ace\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_33ddac565b620b33e323d4764ef56920151c36bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_8e579312fcb904795c81bfd806e21dc8e7c739c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_76ce7998e5e0bc8f40c94fc678e49ff33f25d3ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_3c4f9ef05e7d34350f105cf642af2fa2593eb034\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_ed9638db93518033b26e397258fc35d56677c384\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_5d2f9cadea0979a316f16dbc7a5141851b8916f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_b446c3c40754856ded2dfdcaada55bc295542e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_e3f4021a90e4a5aee42b520bc2ae8a281f459e19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_69a4ce900291d5dfb078049197c2f7f1b85f71da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_fba97123496941aeeaadcb930dcbccf6454f8951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_2259bdef82ddc69ca2896a9c3866b110b010a461\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_62c7ba782079291cae06b37bddafac79ed9f2ec1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_14a58c86516a9341da6035a240a77368b5cbf5f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_33788c4c9e9f743376c2774dceed345e7571d1da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_cd9da47104a9c5d93c671f79882ac193d97f7f6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_dcb516742fc77e6a3f98d74870ecc9aee1084098\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7bbdc84a4fcb89c7aca70491fde0628299b11026\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_9ca52918b6aefdbd40393f203f5c482d2a75e1f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_8f4b5e71a494412b1ab82f5d8c84192a5dab36d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_ff58113286bb976b98aca832d5880890b6f3dc65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_9e7ffc554b849794688864088b9efc032cafab6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_6ee0a4e50885025942cd1e9a3bfc021fe2186787\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_40862edc8ee01431f8a8e97d718689d2c15ed73c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_42cc2406dcd72a737a9e59bf385cf5c7598dfd99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_35ebea9f562fe57fed5f083a1085efdbc29af5ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_cba84c4d9730a7be27de4cebf412fa98aa2f5dc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_9922b0eec91ed56854016ea6d8205fa51899358a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_fa0e1d709ea142a8834ca16d8353d9c79b09f50a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_12fe8b5f4df932b4155e8b1f4cd8f78eee4ba17b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fc1e99c27f3cb57392881bd6f7a9e92ae50efdd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_52dcdab1b542530b1011bfe28e2d3a61ff16525e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_38f81b71e33290df19375bf22a5ee6d5022e6a64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_74e2c310ac2137fcd33b700740f820432a9d74fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_06c085f580da3d9a5a92a5a14bf0b9e3eb0af6fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_d81e6068abdf179078317b1df6833f3fb679fc20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab5e883641028802948df381417e4d122f5df6a1">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c75e7cbbec9cdb664a555b22235b7d823e86f4b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ee8e1aa088e2c4c7203f1d8ad542289a77940918\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_31a2f7198118879128e6a2701f76b1a446cb4e45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_8f5fcf6897376431b3a00c51f451c2fb806c949e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_3776e3b47d97bdf85e0d8d3b3d2b1a019cdae2a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_c594fc63f6af1461dc0681511be0dbcf084682d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_cc55e1c6bb6767c0c8041a45b65288e42ffb7640\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_06c646766a1c72365703ee8f7246346316dbb10c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_6bec7a81b42ee996fd2eb9092951e0981bce3b3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_50dc26a4e3667eebc7e48bc68cb2a2aec2b14de0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\sana\AndroidStudioProjects\MyMapApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_f051648056b40adcdf35b1735f1ac999bc26e0ff\classes.dex" />
+    </item>
+
+</items>

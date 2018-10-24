@@ -1,0 +1,7 @@
+#Tue Apr 04 10:41:38 WEST 2017
+base.0=C\:\\Users\\sana\\AndroidStudioProjects\\MyMapApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ab4fad2afee2b0fdc25b5e99ba1459a7564946c8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\sana\\AndroidStudioProjects\\MyMapApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c75e7cbbec9cdb664a555b22235b7d823e86f4b4\\classes.dex
+base.1=C\:\\Users\\sana\\AndroidStudioProjects\\MyMapApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c75e7cbbec9cdb664a555b22235b7d823e86f4b4
+file.0=C\:\\Users\\sana\\AndroidStudioProjects\\MyMapApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ab4fad2afee2b0fdc25b5e99ba1459a7564946c8\\classes.dex
